@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rudraaaaaa
+- 👋 Hi, I’m @Rudra
 - 👀 I’m interested in computer science, coding.
 - 🌱 I’m currently learning coding and diffrent languages
 - 💞️ I’m looking to collaborate on projects or any thing relted to internships 
